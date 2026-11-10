@@ -4,7 +4,7 @@ A proof of concept that delivers Meta (Facebook) Lead Ads submissions to a React
 
 ## Demo
 
-- **Demo video:** [Loom link here]
+- **Demo video:** : https://www.loom.com/share/b4a132815b2749a9b44c0f7e8a00dfab
 
 ## How it works
 
